@@ -6,7 +6,7 @@
         return (b == 0) ? 0 : (double) a / b;
     }
     public static void performOperations() {
-        int a = 10, b = 5;
+        int a = 12, b = 6;
         System.out.println("Add: " + add(a, b));
         System.out.println("Subtract: " + subtract(a, b));
         System.out.println("Multiply: " + multiply(a, b));
